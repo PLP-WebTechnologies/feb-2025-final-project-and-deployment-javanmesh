@@ -1,5 +1,5 @@
 # Final Project and Deployment
-
+The live site is on : https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-javanmesh/
 ## Objectives
 Build a fully functional web application.
 Apply HTML, CSS, and JavaScript concepts learned.
